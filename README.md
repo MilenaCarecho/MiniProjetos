@@ -5,14 +5,24 @@ Beleza?
 Criei este repositorio pra organizar os meus projetos, separando eles por linguagem de programação.
 
 - C
-   - [ ] [Converta dólares em centavos]()
-   - [ ]  Conversor de número binário para decimal
-   - [ ]  Cadastro de notas
-   - [ ]  Jogo da memoria simples
-   - [ ]  Sorteio de cartas
-
+   - [ ] [conversor de moeda]()
+   - [ ] [Conversor de número binário para decimal]()
+   - [ ] [Cadastro de notas]()
+   - [ ] [Jogo da memoria simples]()
+   - [ ] [Sorteio de cartas]()
+   - [ ] [Jogo da velha]()
+   - [ ] [Quiz]()
+   - [ ] [jogo snake]()
+   - [ ] [Sistema de Cadastro]()
 
 - Java
+   - [ ] [Agenda de cabeleireira]()
+   - [ ] [Pac man]()
+   - [ ] [Cadastro de funcionarios]()
+   - [ ] [Controle de estoque]()
+   - [ ] [e-commerce]()
+   - [ ] [Tetris]()
 
 
+   
 
