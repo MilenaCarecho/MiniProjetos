@@ -23,6 +23,9 @@ Criei este repositorio pra organizar os meus projetos, separando eles por lingua
    - [ ] [e-commerce]()
    - [ ] [Tetris]()
 
+- Javascript 
+   - [x] [Dino game]()
+
 
    
 
