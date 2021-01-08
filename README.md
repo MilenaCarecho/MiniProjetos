@@ -24,7 +24,7 @@ Criei este repositorio pra organizar os meus projetos, separando eles por lingua
    - [ ] [Tetris]()
 
 - Javascript 
-   - [x] [Dino game]()
+   - [x] [Dino game](https://github.com/MilenaCarecho/DinoGame)
 
 
    
