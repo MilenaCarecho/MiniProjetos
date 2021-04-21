@@ -15,7 +15,7 @@ Criei este repositorio pra organizar os meus projetos, separando eles por lingua
    - [ ] [jogo snake]()
    - [ ] [Sistema de Cadastro]()
 
-- Java
+- 
    - [ ] [Agenda de cabeleireira]()
    - [ ] [Pac man]()
    - [ ] [Cadastro de funcionarios]()
